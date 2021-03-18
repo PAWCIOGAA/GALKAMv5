@@ -11,7 +11,7 @@
 font-family: sans-serif;
 text-align: center;}
 </style>
-    
+    //sdddadadgi
     <?php
    $var = 'Hello';
    $var = 'HI';
@@ -21,6 +21,7 @@ define('CONSTANT', 'World');
 //CONATANT = 'Earth'; komentarz 
 echo "$var " . CONSTANT;
 echo '<br>';
+echo 'kamyk to fajny chłopaczek'
 $text = 'ABCD';
 $num = 120;
 $float = 25.52;
@@ -39,4 +40,4 @@ var_dump(is_numeric($textNum));
    
     
 </body>
-</html>
+</html>git remote add origin git@github.com:PAWCIOGAA/GALKAMv4.git
