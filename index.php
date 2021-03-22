@@ -29,7 +29,7 @@ $bool = true;
 echo "$text, $num, $float,";
 var_dump($bool);
 echo '<br>';
-
+XDDDDDDD
 $textNum = "30x";
 // echo $textNum +$num;
 var_dump(is_numeric($textNum));
@@ -40,4 +40,4 @@ var_dump(is_numeric($textNum));
    
     
 </body>
-</html>git remote add origin git@github.com:PAWCIOGAA/GALKAMv4.git
+</html>git remote add origin git@github.com:PAWCIOGAA/GALKAMv4.git PAWEŁGEJ
